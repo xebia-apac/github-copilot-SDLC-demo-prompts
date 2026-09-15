@@ -1,6 +1,6 @@
 # DEMO_SDLC
 
-## 01
+## 01 It will create a business-requirements..
 
 ```
 Create business-requirements.md for RequestHub. 
@@ -12,7 +12,7 @@ Keep the scope limited to these features. Do not include technical details.
 
 ```
 
-## 02
+## 02 It will create functional-requirements based on business-requirements.
 
 ```
 Read business-requirements.md and create functional-requirements.md. 
